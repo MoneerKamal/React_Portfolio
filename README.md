@@ -6,6 +6,9 @@ A simple SPA Portfolio template for developer/designers built with React. Use it
 
 the project contain three main component togather they output a digital watch with the choice to view or hide the current date
 
+Preview:
+![](test.PNG)
+
 ## How to use
 1. Clone/Download the repo.
 2. Run  ``` npm install ```.
